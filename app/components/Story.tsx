@@ -1,6 +1,6 @@
 export default function Story() {
   return (
-    <section id="story" className="bg-white py-24 sm:py-32">
+    <section id="story" className="scroll-mt-24 bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-3xl px-6">
         <h2 className="text-3xl font-semibold tracking-tight text-neutral-950 sm:text-4xl">
           From two brothers to a partner network.

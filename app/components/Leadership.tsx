@@ -15,7 +15,7 @@ const LEADERSHIP = [
 
 export default function Leadership() {
   return (
-    <section id="leadership" className="bg-white py-24 sm:py-32">
+    <section id="leadership" className="scroll-mt-24 bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-6xl px-6">
         <h2 className="text-3xl font-semibold tracking-tight text-neutral-950 sm:text-4xl">
           Led by operators, not consultants.

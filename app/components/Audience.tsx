@@ -15,7 +15,7 @@ const AUDIENCES = [
 
 export default function Audience() {
   return (
-    <section id="audience" className="bg-neutral-50 py-24 sm:py-32">
+    <section id="audience" className="scroll-mt-24 bg-neutral-50 py-24 sm:py-32">
       <div className="mx-auto max-w-6xl px-6">
         <h2 className="text-3xl font-semibold tracking-tight text-neutral-950 sm:text-4xl">
           Where do you come in?

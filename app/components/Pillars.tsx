@@ -18,7 +18,7 @@ const PILLARS = [
 
 export default function Pillars() {
   return (
-    <section id="pillars" className="bg-white py-24 sm:py-32">
+    <section id="pillars" className="scroll-mt-24 bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-6xl px-6">
         <h2 className="text-3xl font-semibold tracking-tight text-neutral-950 sm:text-4xl">
           Three ways in, one goal: growth.

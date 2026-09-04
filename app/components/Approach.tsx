@@ -21,7 +21,7 @@ const STEPS = [
 
 export default function Approach() {
   return (
-    <section id="approach" className="bg-neutral-50 py-24 sm:py-32">
+    <section id="approach" className="scroll-mt-24 bg-neutral-50 py-24 sm:py-32">
       <div className="mx-auto max-w-6xl px-6">
         <h2 className="text-3xl font-semibold tracking-tight text-neutral-950 sm:text-4xl">
           How we work.
