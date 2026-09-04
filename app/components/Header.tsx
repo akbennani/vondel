@@ -6,8 +6,7 @@ import Logo from "./Logo";
 const LINKS = [
   { href: "#pillars", label: "What we do" },
   { href: "#audience", label: "For founders / investors" },
-  { href: "#approach", label: "Approach" },
-  { href: "#leadership", label: "Team" },
+  { href: "#community", label: "Network" },
   { href: "#story", label: "Story" },
 ];
 
